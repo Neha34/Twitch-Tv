@@ -1,0 +1,23 @@
+body{
+    background:#dbc3d0;
+}
+img{
+    max-height:50px;
+    border-radius:50%;
+    width: 100px;
+}
+.row{
+    background:#5e0231;
+    border:5px #5e0231;
+    border-radius: 25px;
+    margin:10px;
+}
+.col-md-4{
+    padding: 5px;
+    color:#fff;
+    font-family: 'Indie Flower', cursive;
+}
+#heading{
+    font-family: 'Lemonada', cursive;
+    color:#fff;
+}
